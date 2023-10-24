@@ -6,11 +6,13 @@
   "editor.codeActionsOnSave": [
     "source.fixAll.eslint"
   ],
+  "editor.fontSize": 22,
   "eslint.validate": [
     "javascript",
     "javascriptreact",
     "typescript",
     "vue",
     "html"
-  ]
+  ],
+  "vetur.experimental.templateInterpolationService": true
 }
